@@ -1,0 +1,16 @@
+[Mon Jul 02 15:56:44.929120 2018] [authz_core:error] [pid 37009] [client 127.0.0.1:53662] AH01630: client denied by server configuration: /Users/jaguar/work/Sites/wordpress/test.locl/
+[Mon Jul 02 15:56:44.997114 2018] [authz_core:error] [pid 37009] [client 127.0.0.1:53662] AH01630: client denied by server configuration: /Users/jaguar/work/Sites/wordpress/test.locl/favicon.ico, referer: http://test.locl/
+[Mon Jul 02 15:57:39.452321 2018] [authz_core:error] [pid 44327] [client 127.0.0.1:53882] AH01630: client denied by server configuration: /Users/jaguar/work/Sites/wordpress/test.locl/
+[Mon Jul 02 15:57:39.490490 2018] [authz_core:error] [pid 44327] [client 127.0.0.1:53882] AH01630: client denied by server configuration: /Users/jaguar/work/Sites/wordpress/test.locl/favicon.ico, referer: http://test.locl/
+[Mon Jul 02 15:57:43.199495 2018] [authz_core:error] [pid 44327] [client 127.0.0.1:53882] AH01630: client denied by server configuration: /Users/jaguar/work/Sites/wordpress/test.locl/
+[Mon Jul 02 15:57:43.235579 2018] [authz_core:error] [pid 44327] [client 127.0.0.1:53882] AH01630: client denied by server configuration: /Users/jaguar/work/Sites/wordpress/test.locl/favicon.ico, referer: http://test.locl/
+[Mon Jul 02 15:57:45.700903 2018] [authz_core:error] [pid 44327] [client 127.0.0.1:53882] AH01630: client denied by server configuration: /Users/jaguar/work/Sites/wordpress/test.locl/
+[Mon Jul 02 15:57:45.747676 2018] [authz_core:error] [pid 44327] [client 127.0.0.1:53882] AH01630: client denied by server configuration: /Users/jaguar/work/Sites/wordpress/test.locl/favicon.ico, referer: http://test.locl/
+[Mon Jul 02 16:00:02.946930 2018] [:error] [pid 44443] [client 127.0.0.1:54466] PHP Warning:  fopen(./images/img.jpg): failed to open stream: No such file or directory in /Users/jaguar/work/Sites/wordpress/test.locl/index.php on line 3
+[Mon Jul 02 16:00:02.947739 2018] [:error] [pid 44443] [client 127.0.0.1:54466] PHP Stack trace:
+[Mon Jul 02 16:00:02.947917 2018] [:error] [pid 44443] [client 127.0.0.1:54466] PHP   1. {main}() /Users/jaguar/work/Sites/wordpress/test.locl/index.php:0
+[Mon Jul 02 16:00:02.947993 2018] [:error] [pid 44443] [client 127.0.0.1:54466] PHP   2. fopen() /Users/jaguar/work/Sites/wordpress/test.locl/index.php:3
+[Mon Jul 02 16:00:02.948640 2018] [:error] [pid 44443] [client 127.0.0.1:54466] PHP Warning:  curl_setopt(): supplied argument is not a valid File-Handle resource in /Users/jaguar/work/Sites/wordpress/test.locl/index.php on line 4
+[Mon Jul 02 16:00:02.948664 2018] [:error] [pid 44443] [client 127.0.0.1:54466] PHP Stack trace:
+[Mon Jul 02 16:00:02.948682 2018] [:error] [pid 44443] [client 127.0.0.1:54466] PHP   1. {main}() /Users/jaguar/work/Sites/wordpress/test.locl/index.php:0
+[Mon Jul 02 16:00:02.948700 2018] [:error] [pid 44443] [client 127.0.0.1:54466] PHP   2. curl_setopt() /Users/jaguar/work/Sites/wordpress/test.locl/index.php:4
