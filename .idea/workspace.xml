@@ -64,6 +64,7 @@
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/.gitattributes" />
       </list>
     </option>
   </component>
@@ -235,12 +236,12 @@
       <workItem from="1521036975696" duration="158000" />
       <workItem from="1521038329113" duration="62000" />
       <workItem from="1530536138002" duration="1475000" />
-      <workItem from="1530622493361" duration="1568000" />
+      <workItem from="1530622493361" duration="1876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6527000" />
+    <option name="totallyTimeSpent" value="6835000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
